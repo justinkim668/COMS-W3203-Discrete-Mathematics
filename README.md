@@ -1,2 +1,2 @@
 # COMS W3203 Discrete Mathematics
- COMS W3203 is a class at Columbia University on Discrete Mathematics.
+ COMS W3203 is a class at Columbia University on Discrete Mathematics. The class covered the following topics: proofs (direct proofs, proof by cases, contrapositive, counterexample, proof by contradiction, proof by induction), set theory, functions, pigeonhole principle, modular arthmetic, Euclid's algorithm, Fermat's Little Theorem, Cryptography, RSA encryption, inclusion-exclusion principle, binomial coefficients, multisets, and graph theory 
